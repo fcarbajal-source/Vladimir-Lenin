@@ -1,0 +1,9 @@
+# Streamlit secrets (NEVER commit this file)
+.streamlit/secrets.toml
+.env
+
+# Python cache & virtual environments
+__pycache__/
+*.pyc
+.venv/
+venv/
